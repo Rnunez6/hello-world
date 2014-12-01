@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-the helloing of the worl
+the helloing of the world
